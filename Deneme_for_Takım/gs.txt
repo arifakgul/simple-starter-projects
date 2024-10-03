@@ -1,0 +1,13 @@
+Fernando Muslera,Kaleci,Galatasaray
+Sacha Boey,Sağ Bek,Galatasaray
+Dries Mertens,Sol Kanat,Galatasaray
+Nicolo Zaniolo,Ofansif Orta Saha,Galatasaray
+Victor Nelsson,Stoper,Galatasaray
+Omar Elabdellaoui,Sol Bek,Galatasaray
+Barış Alper Yılmaz,Sağ Kanat,Galatasaray
+Lucas Torreira,Orta Saha,Galatasaray
+Cicaldau,Orta Saha,Galatasaray
+Sergio Oliveira,Orta Saha,Galatasaray
+Bafetimbi Gomis,Forvet,Galatasaray
+Kerem Aktürkoğlu,Sağ Kanat,Galatasaray
+Icardi,Forvet,Galatasaray

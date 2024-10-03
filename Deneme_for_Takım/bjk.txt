@@ -1,0 +1,17 @@
+Wout Weghorst,Forvet,Beşiktaş
+Josef de Souza,Orta Saha,Beşiktaş
+Rachid Ghezzal,Sağ Kanat,Beşiktaş
+Salih Uçan,Orta Saha,Beşiktaş
+Caner Erkin,Sol Bek,Beşiktaş
+Cenk Tosun,Forvet,Beşiktaş
+Miralem Pjanic,Orta Saha,Beşiktaş
+Domagoj Vida,Stoper,Beşiktaş
+Umut Nayir,Forvet,Beşiktaş
+Nathan Redmond,Sol Kanat,Beşiktaş
+Wellington,Stoper,Beşiktaş
+Ersin Destanoglu,Kaleci,Beşiktaş
+Nathan Redmond,Sol Kanat,Beşiktaş
+Oğuzhan Özyakup,Orta Saha,Beşiktaş
+Umut Nayir,Forvet,Beşiktaş
+Rachid Ghezzal,Sağ Kanat,Beşiktaş
+Domagoj Vida,Stoper,Beşikta

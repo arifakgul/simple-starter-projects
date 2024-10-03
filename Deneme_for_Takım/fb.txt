@@ -1,0 +1,15 @@
+Miguel Crespo,Orta Saha,Fenerbahçe
+Enner Valencia,Forvet,Fenerbahçe
+Attila Szalai,Stoper,Fenerbahçe
+Joshua King,Sağ Kanat,Fenerbahçe
+İrfan Can Kahveci,Orta Saha,Fenerbahçe
+Ferdi Kadıoğlu,Sol Bek,Fenerbahçe
+Altay Bayındır,Kaleci,Fenerbahçe
+Bright Osayi-Samuel,Sağ Bek,Fenerbahçe
+Jayden Oosterwolde,Sol Bek,Fenerbahçe
+Miha Zajc,Ofansif Orta Saha,Fenerbahçe
+Luiz Gustavo,Orta Saha,Fenerbahçe
+Serdar Aziz,Stoper,Fenerbahçe
+Ferdi Kadıoğlu,Sol Bek,Fenerbahçe
+Altay Bayındır,Kaleci,Fenerbahçe
+Samatta,Forvet,Fenerbahçe
